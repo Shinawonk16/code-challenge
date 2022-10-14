@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Desktop\Code challenge\bin\Debug\net5.0\Code challenge.exe
+C:\Users\Toshiba\Desktop\Code challenge\bin\Debug\net5.0\Code challenge.deps.json
+C:\Users\Toshiba\Desktop\Code challenge\bin\Debug\net5.0\Code challenge.runtimeconfig.json
+C:\Users\Toshiba\Desktop\Code challenge\bin\Debug\net5.0\Code challenge.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\Code challenge\bin\Debug\net5.0\Code challenge.dll
+C:\Users\Toshiba\Desktop\Code challenge\bin\Debug\net5.0\ref\Code challenge.dll
+C:\Users\Toshiba\Desktop\Code challenge\bin\Debug\net5.0\Code challenge.pdb
+C:\Users\Toshiba\Desktop\Code challenge\obj\Debug\net5.0\Code challenge.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\Code challenge\obj\Debug\net5.0\Code challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\Code challenge\obj\Debug\net5.0\Code challenge.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\Code challenge\obj\Debug\net5.0\Code challenge.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\Code challenge\obj\Debug\net5.0\Code challenge.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Code challenge\obj\Debug\net5.0\Code challenge.dll
+C:\Users\Toshiba\Desktop\Code challenge\obj\Debug\net5.0\ref\Code challenge.dll
+C:\Users\Toshiba\Desktop\Code challenge\obj\Debug\net5.0\Code challenge.pdb
+C:\Users\Toshiba\Desktop\Code challenge\obj\Debug\net5.0\Code challenge.genruntimeconfig.cache
